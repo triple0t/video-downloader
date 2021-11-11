@@ -2,3 +2,4 @@
 screenshots/*
 !screenshots/.gitkeep
 .DS_Store
+test.js
